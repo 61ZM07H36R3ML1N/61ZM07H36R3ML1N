@@ -8,7 +8,7 @@
 
 
 ### 👨‍💻  About Me: Hi there, Im Brian(BT).
-I am a Full Stack Developer, I mainly Develope on the MERN Stack.
+I am a Full Stack Developer, I mainly Develop on the MERN Stack.
 
 - 🔭 Right now im an IT Assistant for a small comapny.
 - 🌱 Exploring different way to build web applications.
