@@ -29,4 +29,4 @@ I am a Full Stack Developer, I mainly Develop on the MERN Stack.
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=61ZM07H36R3ML1N)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=61ZM07H36R3ML1N)](https://github.com/61ZM07H36R3ML1N/github-readme-stats))
