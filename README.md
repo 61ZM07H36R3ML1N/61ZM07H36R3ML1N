@@ -12,7 +12,7 @@ I am a Full Stack Developer, I mainly Develop on the MERN Stack.
 
 - 🔭 Right now im an IT Assistant for a small comapny.
 - 🌱 Exploring different way to build web applications.
-- ⚡ In my freetime, im building a discord bot that is a self-improving age verification for Discord Servers.
+- ⚡ In my freetime, im building a live voting app for my groups Game Nights
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/btjamiel)
 
 ---
@@ -29,6 +29,4 @@ I am a Full Stack Developer, I mainly Develop on the MERN Stack.
 </div>
 
 ---
-### 🔥 My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=61ZM07H36R3ML1N)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=61ZM07H36R3ML1N)](https://github.com/anuraghazra/github-readme-stats)
