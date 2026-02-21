@@ -7,7 +7,7 @@
 
 
 
-### 👨‍💻  About Me: Hi there, Im Brian(BT).
+### 👨‍💻  About Me: Hi there, Im Brian Jamiel.
 I am a Full Stack Developer, I mainly Develop on the MERN Stack.
 
 - 🔭 Right now im an IT Assistant for a small comapny.
