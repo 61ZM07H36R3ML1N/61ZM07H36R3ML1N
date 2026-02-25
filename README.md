@@ -12,7 +12,7 @@ I am a Full Stack Developer, I mainly Develop on the MERN Stack.
 
 - 🔭 Right now im an IT Assistant for a small comapny.
 - 🌱 Exploring different way to build web applications.
-- ⚡ In my freetime, im building a live voting app for my groups Game Nights
+- ⚡ In my freetime, I'm building a Astro Inferno Companion app
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/btjamiel)
 
 ---
