@@ -12,7 +12,7 @@ I am a Full Stack Developer, I mainly Develop on the M/FERN Stack.
 
 - 🔭 Right now im an IT Assistant for a small comapny.
 - 🌱 Exploring different way to build web applications.
-- ⚡ In my free time, I'm building Vallenhold: Cursed Marches
+- ⚡ In my free time, I'm building scent-map
 - 📬 How to reach me: https://www.linkedin.com/in/btjamiel
 
 ---
